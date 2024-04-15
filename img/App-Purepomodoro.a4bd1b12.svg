@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 4267 4267" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-10923.3,0)">
+        <g id="ArtBoard1" transform="matrix(1,0,0,1.22782,10923.3,0)">
+            <rect x="0" y="0" width="4266.67" height="3475" style="fill:none;"/>
+            <clipPath id="_clip1">
+                <rect x="0" y="0" width="4266.67" height="3475"/>
+            </clipPath>
+            <g clip-path="url(#_clip1)">
+                <g transform="matrix(1.30651,0,0,1.06409,-15141.8,-333.725)">
+                    <circle cx="13222.3" cy="1946.47" r="1632.84" style="fill:white;"/>
+                    <clipPath id="_clip2">
+                        <circle cx="13222.3" cy="1946.47" r="1632.84"/>
+                    </clipPath>
+                    <g clip-path="url(#_clip2)">
+                        <g transform="matrix(0.765396,0,0,0.939766,11589.5,313.623)">
+                            <g transform="matrix(6.12323e-17,0.814453,-1,4.98709e-17,4266.67,0)">
+                                <rect x="0" y="0" width="4266.67" height="4266.67" style="fill:url(#_Linear3);"/>
+                            </g>
+                            <g>
+                                <g transform="matrix(1.74435,0,0,1.42069,-11861.2,-1340.51)">
+                                    <circle cx="8022.79" cy="2166.55" r="913.318" style="fill:none;stroke:white;stroke-width:119.43px;"/>
+                                </g>
+                                <g transform="matrix(1.38636,0,0,1.12912,-8989.12,-708.806)">
+                                    <path d="M8022.79,1253.24C8526.87,1253.24 8936.11,1662.48 8936.11,2166.55C8936.11,2670.63 8526.87,3079.87 8022.79,3079.87C7518.72,3079.87 7109.48,2670.63 7109.48,2166.55C7109.48,1913.85 7212.33,1684.97 7378.43,1519.55" style="fill:none;stroke:rgb(184,222,231);stroke-width:150.27px;"/>
+                                </g>
+                                <g transform="matrix(1.02836,0,0,0.837552,-6116.99,-77.1015)">
+                                    <path d="M8022.79,1253.24C8526.87,1253.24 8936.11,1662.48 8936.11,2166.55C8936.11,2670.63 8526.87,3079.87 8022.79,3079.87C7771.31,3079.87 7543.42,2978.01 7378.19,2813.32" style="fill:none;stroke:rgb(81,162,201);stroke-width:202.59px;"/>
+                                </g>
+                                <g transform="matrix(0.670365,0,0,0.545981,-3244.87,554.603)">
+                                    <path d="M8022.79,1253.24C8526.87,1253.24 8936.11,1662.48 8936.11,2166.55C8936.11,2418.2 8834.11,2646.22 8669.24,2811.48" style="fill:none;stroke:rgb(62,131,209);stroke-width:310.78px;"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <linearGradient id="_Linear3" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(4266.67,4.54747e-13,-4.54747e-13,4266.67,0,2133.33)"><stop offset="0" style="stop-color:rgb(108,49,98);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(38,61,89);stop-opacity:1"/></linearGradient>
+    </defs>
+</svg>
